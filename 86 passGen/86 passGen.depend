@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1705684240 source:c:\users\dell\desktop\3 c\language c\practicemakesyoustronger\86 passgen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+

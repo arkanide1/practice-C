@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705612553 source:c:\users\dell\desktop\3 c\language c\practicemakesyoustronger\73 sprintf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704215795 source:c:\users\dell\desktop\3 c\language c\practicemakesyoustronger\59 reverseword\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

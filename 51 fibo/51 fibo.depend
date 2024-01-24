@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1704157655 source:c:\users\dell\desktop\3 c\language c\practicemakesyoustronger\51 fibo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+

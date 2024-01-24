@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1704293220 source:c:\users\dell\desktop\3 c\language c\practicemakesyoustronger\66 739leet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+

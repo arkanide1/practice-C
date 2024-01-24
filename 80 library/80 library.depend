@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1705663090 source:c:\users\dell\desktop\3 c\language c\practicemakesyoustronger\80 library\mylib.c
+
+1705662829 source:c:\users\dell\desktop\3 c\language c\practicemakesyoustronger\80 library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mylib.h"
+
+1705662951 c:\users\dell\desktop\3 c\language c\practicemakesyoustronger\80 library\mylib.h
+
