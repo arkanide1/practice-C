@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706180968 source:c:\users\dell\desktop\3 c\language c\practice-c\107 ferror_clearerr\main.c
+	<stdio.h>
+	<stdlib.h>
+
