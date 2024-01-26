@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1706286139 source:c:\users\dell\desktop\3 c\language c\practice-c\112 isangram\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
