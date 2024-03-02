@@ -1,18 +1,26 @@
-# include <stdio.h>
+#include <stdio.h>
 #include <unistd.h>
+#include <stdlib.h>
+#include <time.h>
 #include <sys/wait.h>
 
-int main(){
-    int status,i = 0, pid;
-    pid=fork();
-    if(pid==0) {
-        printf(" le fils : chez moi, i=%d \n ",i);
-        i++;
-        printf("\n le fils : maintenant, chez moi, i=%d \n" ,i);
-    } else{
-        //wait(&status);
-        while(wait(&status)>=0); /*attendre la fin de chaque enfant*/
-        printf(" je suis le père : Chez moi, i=%d \n ",i);
+int main(int argc , char *argv[]){
+    int id = fork();
+    int n;
+    int status;
+    if (id == 0){
+        n=1;
+    }else{
+        n=6;
+        wait(&status);
     }
+    for (int i = n;i<n+5;i++){
+        printf("%d " , i);
+    }
+    if (id != 0){
+        printf("\n");
+    }
+
     return 0;
+
 }
