@@ -1,0 +1,10 @@
+nom marque couleur EnLocation id nbplaces, prixJour
+Peugeot206 Peugeot Rouge Non 1 5 60
+
+
+
+nom   prenom  adresse          id  cin     telephone
+Dupont Jean Rue_12 1 12345678 612345678
+
+numContrat idV idC cout Debut:d/m/y Fin:d/m/y
+1006 6 6 420 18 6 2023 25 6 2023
